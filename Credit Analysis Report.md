@@ -1,4 +1,4 @@
-# credit-risk-classification
+# Credit Analysis Report
 
 ## Overview of the Analysis
 
@@ -33,7 +33,7 @@ The logistic regression model is a statistical model used to predict the probabi
 
 ## Results
 
-Logistic Regression Model:
+**Logistic Regression Model:**
 
 * Precision:
   * Healthy Loans: 100% (rounded up) of instances predicted as healthy were actally healthy.
